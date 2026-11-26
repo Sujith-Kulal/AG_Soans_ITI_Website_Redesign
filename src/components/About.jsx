@@ -8,7 +8,7 @@ export default function About() {
       {/* Subtle watermark background */}
       <div
         className="about-watermark"
-        style={{ backgroundImage: 'url(/assets/site/slider/college_new.jpg)' }}
+        style={{ backgroundImage: 'url(./assets/site/slider/college_new.jpg)' }}
         aria-hidden="true"
       />
 

@@ -18,7 +18,7 @@ export default function TestimonialsSection() {
   return (
     <section
       className="section testimonials-section"
-      style={{ backgroundImage: 'url(/assets/site/image/aa.png)' }}
+      style={{ backgroundImage: 'url(./assets/site/image/aa.png)' }}
     >
       <div className="testimonials-overlay" />
       <div className="container testimonials-content">
